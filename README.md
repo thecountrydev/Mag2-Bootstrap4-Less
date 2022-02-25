@@ -5,12 +5,19 @@ Description
 This is a Magento 2 Child Theme 
 
 Features
+
 🛠 	Includes
+
 🔥 	Bootstrap Grid and Font Awesome
+
 🎨 	Less file
+
 🌈 	Easy Modification for colors
+
 📱 	Media Queries for Responsive
+
 🤖 	External Libraries
+
 Installation
 
 Download this repository and drag the files into this path. app/design/frontend
