@@ -1,5 +1,5 @@
 {
-    "name": "zekinah/magento2-theme-zone",
+    "name": "piranha/magento2-theme-zone",
     "description": "Magento 2 Child Theme from Luma starter pack",
     "type": "magento2-theme",
     "require": {
